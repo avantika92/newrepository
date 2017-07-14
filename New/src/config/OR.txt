@@ -1,0 +1,45 @@
+# Login Page Object
+txtbx_UserName=.//html/body/form/table/tbody/tr[3]/td[1]/table/tbody/tr[2]/td[2]/input
+txtbx_Password=.//html/body/form/table/tbody/tr[3]/td[1]/table/tbody/tr[3]/td[2]/input
+btn_Login=.//html/body/form/table/tbody/tr[3]/td[1]/table/tbody/tr[4]/td/input
+total_frontend_sales=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr[1]/td[2]/a
+drpdwn_Report=type
+drpdwn_Location=dtl
+drpdwn_Stores=est
+drpdwn_Department=dept
+txtbx_Days=da
+txtbx_number=dv
+data_table=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+total_fe_sales=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+total_fe_sales_ly=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+ss_sales=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+ss_sales_ly=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+cig_sales=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+cig_sales_ly=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+liq_sales=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+liq_sales_ly=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+beauty_tab=.//html/body/div[1]/center/table/tbody/tr/th[8]/a
+beauty_sales=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr[2]/td[1]/a
+beauty_goal=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+percent_goal=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td/table/tbody/tr
+tab_performance=.//html/body/center/table/tbody/tr/th[10]/a
+service_links =.//html/body/div/table/tbody/tr/td/table/tbody/tr[2]/td     
+mail_service_links =.//html/body/div/table/tbody/tr/td/table/tbody/tr[2]/td[2]
+truck_delivery=.//html/body/div/table/tbody/tr/td/table/tbody/tr[4]/td
+profit_loss=.//html/body/div/table/tbody/tr/td/table/tbody/tr[4]/td[2]
+performance_Links=.//html/body/div/table/tbody
+photo_Links=.//html/body/div[2]/table/tbody/tr/td/div[2]/table/tbody/tr/td/div/table/tbody/tr[2]/td/div/table/tbody/tr/td
+
+
+          
+
+
+
+
+
+
+
+
+
+
+
